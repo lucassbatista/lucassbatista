@@ -1,6 +1,6 @@
 # Hi there :relaxed:
 
-My name is Lucas Batista, I am a Software Developer Analyst. I love to bring new ideas and solve real problems. Currently working a lot with the .NET platform.
+My name is Lucas Batista, I am a Software Developer Analyst. I love to bring new ideas and solve real problems. Currently working a lot with the .NET platform and Java Spring Boot.
 
 I am very interested in Software Architecture, I love to study and apply design / architecture standards. About this, I am currently studying and applying DDD in the projects I have been working on.
 
